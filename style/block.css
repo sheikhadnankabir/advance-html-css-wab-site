@@ -1,0 +1,15 @@
+nav>ul>li{
+    display: inline;
+    margin-right: 15px;
+}
+a:hover{
+    color: rgb(219, 179, 1);
+}
+nav ul>li>a{
+    text-decoration: none;
+    text-align: center;ange;
+}
+footer{
+    margin-top: 35px;
+    text-align: center;
+}
